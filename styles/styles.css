@@ -1,0 +1,46 @@
+.inter-font {
+  font-family: "Inter", sans-serif;
+  font-size: 22px;
+  font-weight: normal;
+  font-style: normal;
+}
+.bold-font{
+    font-weight: 700;
+}
+.gray-font{
+    color: #8987A1;
+}
+
+.noto-serif-font {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  font-variation-settings:"width" 100;
+}
+.orange{
+    color: #E95A08;
+    font-weight: 700;
+}
+.always{
+    width: 570px;
+    height: 108px;
+}
+.text-center-opacity{
+    opacity: .5;
+}
+.button1{
+    background-color: #E95A08;
+}
+.bold-font1{
+    font-weight: 600;
+    color: #FFFFFF;
+    width: 270px;
+    height: 50px;
+}
+.flower-vase{
+    align-items: center;
+}
+.bold-font2{
+font-weight: 500;
+}
