@@ -42,3 +42,122 @@
   font-weight: 700;
   font-size: 22px;
 }
+/* .trusted-badge{
+  width: 286px;
+  height: 286px;
+  position: absolute;
+} */
+.image-container {
+  position: relative;
+  width: 100%;
+  max-width: 540px;
+  margin: 0 auto;
+}
+
+.flower-image {
+  width: 100%;
+  max-width: 358px;
+  max-height: 396px;
+}
+
+@media (min-width: 640px) {
+  .flower-image {
+    max-width: 540px;
+    max-height: 597px;
+  }
+}
+
+.trusted-badge {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 286px;
+  height: 286px;
+}
+
+.trusted-badge {
+  position: absolute;
+  top: -127px;
+  right: -80px;
+  width: 286px;
+  height: 286px;
+  /* filter: drop-shadow(0 4px 8px rgba(0.5, 0.5, 0, 0.5)); */
+}
+
+/* .bloom-plant{
+position: absolute;
+color: #FFFFFF;
+left: 10px;
+right: 10px;
+transform: translate(-50%, -50%);
+} */
+
+.Bloom-Plant{
+  font-size: 20px;
+  font-family: "Noto Serif", serif;
+  color: #FFFFFF;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-variation-settings: "width" 100;
+  position: relative;
+  top: -160px;
+  right: -70px;
+}
+.Bloom-Plant-btn{
+  font-size: 16px;
+  font-family: "Noto Serif", serif;
+  color: #FFFFFF;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-variation-settings: "width" 100;
+  position: relative;
+  top: -150px;
+  right: -130px;
+  align-items: center;
+  text-decoration: underline;
+
+}
+/* .Plants{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+    
+}
+.plant-head{
+  align-items: center;
+
+} */
+
+.zabo{
+  width: 753px;
+  height: 450px;
+}
+.zabo-Plant{
+ font-size: 40px;
+  font-family: "Noto Serif", serif;
+  color: #FFFFFF;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-variation-settings: "width" 100;
+  position: relative;
+  top: -200px;
+  right: -200px;
+
+}
+.zabo-Plant-btn{
+   font-size: 28px;
+  font-family: "Noto Serif", serif;
+  color: #FFFFFF;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-variation-settings: "width" 100;
+  position: relative;
+  top: -200px;
+  right: -320px;
+  align-items: center;
+  text-decoration: underline;
+}
