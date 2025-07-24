@@ -101,7 +101,7 @@ transform: translate(-50%, -50%);
   font-style: normal;
   font-variation-settings: "width" 100;
   position: relative;
-  top: -160px;
+  top: -130px;
   right: -70px;
 }
 .Bloom-Plant-btn{
@@ -113,8 +113,8 @@ transform: translate(-50%, -50%);
   font-style: normal;
   font-variation-settings: "width" 100;
   position: relative;
-  top: -150px;
-  right: -130px;
+  top: -130px;
+  right: -140px;
   align-items: center;
   text-decoration: underline;
 
