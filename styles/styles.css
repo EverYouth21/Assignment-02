@@ -132,7 +132,7 @@ transform: translate(-50%, -50%);
 
 .zabo{
   width: 753px;
-  height: 450px;
+  height: 430px;
 }
 .zabo-Plant{
  font-size: 40px;
@@ -143,8 +143,8 @@ transform: translate(-50%, -50%);
   font-style: normal;
   font-variation-settings: "width" 100;
   position: relative;
-  top: -200px;
-  right: -200px;
+  top: -220px;
+  right: -250px;
 
 }
 .zabo-Plant-btn{
